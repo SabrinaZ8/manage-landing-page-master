@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL in FrontendMentor](https://www.frontendmentor.io/solutions/manage-landing-page-M0ECfGEMqa)
+- Live Site URL: [Live site URL](https://manage-landing-page-master-gules.vercel.app/)
 
 ## My process
 
@@ -55,5 +55,5 @@ list in the desired style.
 
 ## Author
 
-- Website - [shortly](#)
 - Frontend Mentor - [@BynnZ8](https://www.frontendmentor.io/profile/BynnZ8)
+- Website - [Shortly](#)
