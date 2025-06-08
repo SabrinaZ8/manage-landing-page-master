@@ -55,5 +55,5 @@ list in the desired style.
 
 ## Author
 
-- Frontend Mentor - [@BynnZ8](https://www.frontendmentor.io/profile/BynnZ8)
+- Frontend Mentor - [@SabrinaZ8](https://www.frontendmentor.io/profile/SabrinaZ8)
 - Portfolio - [Sabrina Souza](https://portfolio-sabrina-souza.vercel.app/)
