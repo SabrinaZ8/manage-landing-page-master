@@ -56,4 +56,4 @@ list in the desired style.
 ## Author
 
 - Frontend Mentor - [@BynnZ8](https://www.frontendmentor.io/profile/BynnZ8)
-- Website - [Shortly](#)
+- Portfolio - [Sabrina Souza](https://portfolio-sabrina-souza.vercel.app/)
